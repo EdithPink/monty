@@ -1,4 +1,8 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO Description
+# AUTHORS:
+Edith Nyameyie Pinkrah
+Enoch Nkansah
+
 
 This ALX School project is a custom ByteCode interpreter, coded in C. Compilation: gcc -Wall -Werror -Wextra -pedantic *.c -o monty Usage: ./monty byte_file.m
 
